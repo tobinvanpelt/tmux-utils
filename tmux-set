@@ -5,7 +5,7 @@
 #    tmux-set VAR         - unsets VAR
 #    tmux-set VAR VALUE   - sets VAR to VALUE
 
-# Copyright (c) Tobin Van Pelt
+# Copyright (c) 2014 Tobin Van Pelt
 
 if [ $# -eq 1 ]; then
     tmux set-environment -u "$1"

@@ -2,7 +2,7 @@
 #
 # Unzooms a previously zoomd pane.
 
-# Copyright (c) Tobin Van Pelt
+# Copyright (c) 2014 Tobin Van Pelt
 
 tmux_zoom=$(tmux-get TMUX_ZOOM)
 tmux_stub=$(tmux-get TMUX_STUB)

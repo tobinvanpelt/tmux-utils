@@ -30,3 +30,8 @@ bind Up run-shell tmux-zoom
 unbind Down
 bind Down run-shell tmux-unzoom
 ```
+
+
+License
+-------
+This content is released under the The MIT License.

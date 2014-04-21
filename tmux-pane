@@ -2,7 +2,7 @@
 #
 # Returns the unique id of the current pane.
 
-# Copyright (c) Tobin Van Pelt
+# Copyright (c) 2014 Tobin Van Pelt
 
 panes=$(tmux list-panes -F "#{?pane_active,active,}#{pane_id}")
 for word in $panes; do

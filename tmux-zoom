@@ -2,7 +2,7 @@
 #
 # Zoom a pane by swaping the pane into a new window.
 
-# Copyright (c) Tobin Van Pelt
+# Copyright (c) 2014 Tobin Van Pelt
 
 tmux-unzoom
 
